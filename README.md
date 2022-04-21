@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi👋
+- 📫 How to reach me:
+https://www.linkedin.com/in/oksana-kulish-427b48161
+- 💬 How to connect with me: asterisk.hu@gmail.com 
 <!--
 **OksanaKulish/OksanaKulish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
